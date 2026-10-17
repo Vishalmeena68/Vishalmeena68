@@ -1,7 +1,8 @@
 # 💫 About Me:
-### About Me<br>Civil Engineering student exploring the world of AI, software development, and entrepreneurship. I enjoy building practical solutions, experimenting with AI-powered tools, and turning ideas into real-world products. Aspiring founder passionate about technology, innovation, and problem-solving.<br><br>### I'm currently working on<br>Building AI-powered applications, interactive engineering simulations, and digital products that solve real-world problems.<br><br>### I'm looking to collaborate on<br>AI projects, automation workflows, innovative startups, open-source projects, and products that create real-world impact.<br><br>### I'm looking for help with<br>Software development, AI integration, backend development, APIs, and turning early-stage ideas into scalable products.<br><br>### I'm currently learning<br>Python, JavaScript, Git & GitHub, AI agents, workflow automation, and modern application development.<br><br>### Ask me about<br>AI tools, no-code/low-code development, startup ideas, engineering simulations, automation, and building products from scratch.<br><br>### Fun fact<br>I'm a Civil Engineering student building my way into the tech world — one idea, one experiment, and one project at a time.
-
-
+Civil Engineering student exploring AI, software development, and entrepreneurship. 🚀
+Building AI-powered applications, automation workflows, and innovative digital products.
+Currently learning Python, GitHub, AI agents, and modern development tools.
+Aspiring founder passionate about turning ideas into real-world solutions.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishalmeena__68) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vishal Meena) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@vishal meena) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishalmeena6898@gmail.com) 
 
